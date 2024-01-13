@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-30T10:46:04 IST" name="Default suite" finished-at="2023-12-30T10:48:45 IST" duration-ms="161007">
+    <groups>
+    </groups>
+    <test started-at="2023-12-30T10:46:04 IST" name="Default test" finished-at="2023-12-30T10:48:45 IST" duration-ms="161007">
+      <class name="TestLeaf.prasanna.testleafPlayground.AuthTest">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:04 IST" name="startDriver" finished-at="2023-12-30T10:46:17 IST" duration-ms="13049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="calender()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:17 IST" name="calender" finished-at="2023-12-30T10:46:23 IST" duration-ms="5711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calender -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:23 IST" name="startDriver" finished-at="2023-12-30T10:46:32 IST" duration-ms="8949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="gridt2()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:32 IST" name="gridt2" finished-at="2023-12-30T10:46:36 IST" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridt2 -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:36 IST" name="startDriver" finished-at="2023-12-30T10:46:43 IST" duration-ms="6046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="authtest()[pri:1, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:43 IST" name="authtest" finished-at="2023-12-30T10:46:56 IST" duration-ms="13784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authtest -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:46:56 IST" name="startDriver" finished-at="2023-12-30T10:47:10 IST" duration-ms="13800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="iframestest()[pri:2, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:47:10 IST" name="iframestest" finished-at="2023-12-30T10:47:32 IST" duration-ms="21989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframestest -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:47:32 IST" name="startDriver" finished-at="2023-12-30T10:47:44 IST" duration-ms="11525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="tables()[pri:3, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:47:44 IST" name="tables" finished-at="2023-12-30T10:47:47 IST" duration-ms="3386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tables -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:47:47 IST" name="startDriver" finished-at="2023-12-30T10:47:53 IST" duration-ms="6462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="windows()[pri:4, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:47:53 IST" name="windows" finished-at="2023-12-30T10:48:05 IST" duration-ms="11507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windows -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:48:05 IST" name="startDriver" finished-at="2023-12-30T10:48:24 IST" duration-ms="19150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="gridt()[pri:5, instance:TestLeaf.prasanna.testleafPlayground.AuthTest@2a3b5b47]" started-at="2023-12-30T10:48:24 IST" name="gridt" finished-at="2023-12-30T10:48:45 IST" duration-ms="20945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridt -->
+      </class> <!-- TestLeaf.prasanna.testleafPlayground.AuthTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
